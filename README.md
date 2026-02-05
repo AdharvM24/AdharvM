@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Ritik+Rawal+👋;Senior+MERN+Stack+Developer;Microservices+%7C+Kafka+%7C+Redis;Building+Scalable+Systems" />
+  <img src="./assets/banner.png" alt="Banner" />
 </p>
 
 ---
