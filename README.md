@@ -40,9 +40,7 @@
 ---
 
 ## 📊 GitHub Stats
-
-  ![Streak](https://streak-stats.demolab.com?user=AdharvM24&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdharvM24&layout=compact&theme=radical)
+![Metrics](./metrics.svg)
 ---
 
 ## 🔥 Contribution Streak
